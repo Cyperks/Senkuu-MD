@@ -1,17 +1,17 @@
 {
   "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
-  "namebot": "Senkuu",
+  "namebot": "Elaina Chan",
   "botNumber": "6283823742094@s.whatsapp.net",
-  "owner": ["6281312960392@s.whatsapp.net"],
-  "instagram": "https://instagram.com/repannthisori021_",
-  "author": "Yntkts",
-  "session": "senku-md",
-  "email": "yntkts@gmail.com",
+  "owner": ["6281938853934@s.whatsapp.net"],
+  "instagram": "https://instagram.com/skylarkaf_",
+  "author": "Skylar",
+  "session": "xyz",
+  "email": "Febriansyah07.tkj1@gmail.com",
   "self": false,
   "limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
   "packInfo":{
-    "packname": "Senkuu",
-    "author": "Beta ✓"
+    "packname": "Wangsaf Bot",
+    "author": "Elaina Skylar"
   },
   "ignore": {
 		"directory": ["umum"]
